@@ -2,11 +2,13 @@
 
 ## About the Project
 
-The **Multiple Disease Prediction System** is a Machine Learning-based application developed using Python and Streamlit. It provides predictions for three different diseases: Diabetes, Heart Disease, and Parkinson's Disease through a single interactive platform.
+The Multiple Disease Prediction System is a Machine Learning project I developed as part of my hands-on learning journey to understand and implement different Machine Learning concepts.
 
-The project uses three independently trained Machine Learning models, each designed to analyze specific medical attributes and identify patterns associated with the respective disease.
+I wanted to explore how Machine Learning works across different prediction tasks, so I brought three individual projects — Diabetes, Heart Disease, and Parkinson's Disease Prediction — together into a single interactive application using Python and Streamlit.
 
-Each model is trained on its own dataset, uses a dedicated preprocessing pipeline, and generates predictions based on user-provided input features.
+Although all three projects belong to the same domain, each involves a different dataset, set of input features, and prediction model. This gave me an opportunity to experiment with different classification algorithms, understand data preprocessing and feature selection, and train and evaluate multiple independent models.
+
+The project brings these individual prediction systems together under one application, allowing me to apply and strengthen my Machine Learning knowledge through practical implementation.
 
 ## Diseases Covered
 
